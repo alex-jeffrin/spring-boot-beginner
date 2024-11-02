@@ -7,5 +7,6 @@ This project is built using IntelliJ Community Edition. The Ultimate Edition of 
 
 ## Spring Intializr
 
-<a><img align="left" alt="springIntialProject" width="1000" src="https://raw.githubusercontent.com/alex-jeffrin/spring-boot-beginner/refs/heads/main/src/images/springInitializrUI.png?token=GHSAT0AAAAAACZV5UMVHXA22HDS4YCN5CZGZZGJ2FQ"/></a>
+<a><img align="left" alt="springIntialProject" width="1000" src="https://raw.githubusercontent.com/alex-jeffrin/spring-boot-beginner/blob/main/src/images/springInitializrUI.jpg"/></a>
  
+<a><img align="right" alt="mokey" width="300" src="https://raw.githubusercontent.com/alex-jeffrin/alex-jeffrin/main/src/images/luffy.jpg" /></a>
